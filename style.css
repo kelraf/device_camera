@@ -1,0 +1,12 @@
+#video-container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    /* background-color: red; */
+}
+
+#camera-stream {
+    /* background-color: gray; */
+    /* height: 500px; */
+    width: 100%;
+    margin: 2em auto 0;
+}
